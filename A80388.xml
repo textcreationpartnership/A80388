@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A continuation of the proceedings of the Scots army before Hereford: together with a relation of their pursuing the enemie: certified in a letter dated at the leager before Hereford. August 11. 1645. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80388</idno>
+            <idno type="STC">Wing C5969</idno>
+            <idno type="STC">Thomason E296_24</idno>
+            <idno type="STC">ESTC R200213</idno>
+            <idno type="EEBO-CITATION">99861018</idno>
+            <idno type="PROQUEST">99861018</idno>
+            <idno type="VID">158670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158670)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E296[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A continuation of the proceedings of the Scots army before Hereford: together with a relation of their pursuing the enemie: certified in a letter dated at the leager before Hereford. August 11. 1645. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.B. for Robert Bostock at the Kings head in Pauls Churchyard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>15. Aug. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hereford (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I,1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158670:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>A CONTINUATION OF THE PROCEEDINGS Of the Scots ARMY before Hereford: Together with a Relation of their purſuing the Enemie: Certified in a Letter dated at the Leager before Hereford. Auguſt 11. 1645.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>M. B.</hi> for <hi>Robert Boſtock</hi> at the Kings head in Pauls Churchyard. 15. Aug. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158670:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="1" facs="tcp:158670:2"/>
+            <!-- PDF PAGE 56 -->
+            <opener>
+               <dateline>From the Leager before <hi>Hereford,</hi> 
+                  <date>11 Auguſt 1645.</date>
+               </dateline>
+               <lb/>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Will not trouble you with a Re<g ref="char:EOLhyphen"/>lation of the manner of our be<g ref="char:EOLhyphen"/>ſieging this Town, the advancing of our Works, caſting up running Lines and Redouts, making Brid<g ref="char:EOLhyphen"/>ges over the River, the enemies ſallying out of the Towne, where<g ref="char:EOLhyphen"/>of ſome few have beene killed, and others taken priſoners. Onely thus farre I thought fit to ac<g ref="char:EOLhyphen"/>quaint you, that we had made better progreſſe, but that our proceedings hitherto have beene much retarded by reaſon of the want of Materials, and not comming up of our great Ordnance, and ſcar<g ref="char:EOLhyphen"/>cety of our Ammunition; ſome ſupply we have lately had from <hi>Glouceſter</hi> for ready Money, and we are expecting the returne of our party from <hi>North<g ref="char:EOLhyphen"/>ampton</hi> with the Ammunition ſent from <hi>London:</hi> the Walls are much ſtronger and the Graffs larger and deeper then at firſt we ſuppoſed; but when we ſhall be provided with ſome neceſſaries that are in preparation, we are hopefull by Gods aſſiſt<g ref="char:EOLhyphen"/>ance to give a good account thereof, notwithſtan<g ref="char:EOLhyphen"/>ding our Souldiers met with all diſcouragements that can be imagined to be in an Army. The Gene<g ref="char:EOLhyphen"/>rall
+<pb n="2" facs="tcp:158670:3"/>
+               <!-- PDF PAGE 57 -->hath iſſued forth Warrants (whereof a Copy is incloſed) inviting the Countrey to bring in Pro<g ref="char:EOLhyphen"/>viſions for money, and ſtraitly commanding all his Souldiers not to offer them the leaſt injury; but ſuch is the diſ-affection of this Country, that though all poſſible faire meanes have been uſed, they ſtill looke upon us as enemies. The greateſt part of the food of our Infantry is Apples, Peaſe, and greene Wheat that they gather from the ground, which though it be a meanes of their ſubſiſtance for the preſent, yet certainly in the end it will prove deſtructive to the Army, for the Souldiers beginne already to be ſicke, whereby you may judge what their condition ſhall be for the future, eſpecially in the fall of the leafe.</p>
+            <p>This day having received intelligence that the King had gathered his Forces and marched from <hi>Brecknoch</hi> by <hi>Preſton</hi> and <hi>Ludlow</hi> towards <hi>Leichſield</hi> and thoſe parts, for preventing their Deſignes and preſervation of thoſe Countries, the Generall hath ſent above foure thouſand Horſe and Dragoons to attend their motions, and with the reſt of our For<g ref="char:EOLhyphen"/>ces we are proceeding in our worke for reducing this Towne.</p>
+            <p>I ſhall conclude with this, That I perceive we are here ſtrangers and farre from our friends, we came hither for aſſiſtance of this Kingdome to ven<g ref="char:EOLhyphen"/>ture our lives upon the enemy, not upon unwhol<g ref="char:EOLhyphen"/>ſome food, or to be ſtarved in a plentifull Coun<g ref="char:EOLhyphen"/>trey: we never expected ſo bad entertaiment, eſpe<g ref="char:EOLhyphen"/>cially when the Warre ſhould draw neerer to an end, and the Kingdome better enabled to ſupply
+<pb n="3" facs="tcp:158670:3"/>
+               <!-- PDF PAGE 57 -->us: We cannot underſtand the reaſon why wee ſhould be ſo much neglected while others are pro<g ref="char:EOLhyphen"/>vided with all neceſſaries, which we envy not, but when maintenance is due, we cannot but regrate that we are made the objects, of charity and com<g ref="char:EOLhyphen"/>paſſion; the greateſt enemy we have yet ſeen is hun<g ref="char:EOLhyphen"/>ger and want, and I feare ſhall in the end kill to us more then the enemy, unleſſe there bee greater care in our friends to prevent it then heretofore we have met with; howſoever in the midſt of all diſ<g ref="char:EOLhyphen"/>couragements I truſt wee ſhall ever make it ap<g ref="char:EOLhyphen"/>peare by our actions that we have not been want<g ref="char:EOLhyphen"/>ing in the publike ſervice, the advancing whereof ſhall alwayes be the conſtant endeavour of</p>
+            <closer>
+               <dateline>From the Leager before <hi>Hereford,</hi> 
+                  <date>11. Aug. 1645.</date>
+               </dateline>
+               <signed>Your affectionate friend to ſerve you.</signed>
+            </closer>
+            <postscript>
+               <p>I had almoſt forgot to tell you that the Gentle<g ref="char:EOLhyphen"/>men of Monmouthſhire, Glamorganſhire, and Mont<g ref="char:EOLhyphen"/>gomeriſhire have ſent ſome of their number to the Generall to give aſſurance that they will riſe in Armes for the Parliament.</p>
+            </postscript>
+            <pb n="2" facs="tcp:158670:4"/>
+            <!-- PDF PAGE 58 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:158670:4"/>
+            <!-- PDF PAGE 58 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:158670:5"/>
+            <!-- PDF PAGE 59 -->
+            <head>By his Excellency the Earle of LEVEN, Lord Generall of the Scottiſh Armies.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or as much as the Country people, through fear, may poſſibly forbear to bring in proviſions towards the main<g ref="char:EOLunhyphen"/>tenance of the Army in the Leager a<g ref="char:EOLhyphen"/>bout the City of <hi>Hereford,</hi> Theſe are to ſignifie to all perſons Inhabitants in the ſeverall Pariſhes and Conſtabularies adjacent to the foreſaid City, and to aſſure them for their further ſatisfaction and incouragement, That no wrong ſhall be done to the perſon or goods of thoſe who ſhall bring Victuals to be ſold in the Leager for the uſe of the ſaid Army, but that they ſhall be duly paid therefore at the ordinary and accuſtomed Rates as in other free Markets: We doe therefore hereby deſire all and ſundry perſons, In<g ref="char:EOLhyphen"/>habitants in the reſpective Pariſhes and Conſtabu<g ref="char:EOLhyphen"/>laries aforeſaid, freely to repaire to the Leager with Butter, Bread, Cheeſe, or any other proviſions of Victuals, for the which they ſhall receive ready money, and thereafter returne to their ſeverall hou<g ref="char:EOLhyphen"/>ſes with their Horſes, Oxen, and Teames, without receiving any harme whatſoever: Certifying alſo, that we have to this purpoſe iſſued our Edict and
+<pb n="5" facs="tcp:158670:5"/>
+               <!-- PDF PAGE 59 -->Proclamation, commanding all our Officers and Souldiers not to preſume upon paine of death to offer the leaſt wrong or violence to any perſons whatſoever in their paſſing and repaſſing to and from the Leager with their Carriages and Proviſi<g ref="char:EOLhyphen"/>ons. And thereof we are confident all perſons afore<g ref="char:EOLhyphen"/>ſaid will take notice, as they deſire to avoid the evils that otherwayes might enſue upon the neceſ<g ref="char:EOLhyphen"/>ſities of the Souldiers, if Victuals and entertain<g ref="char:EOLhyphen"/>ment ſhould be denied them for Moneys.</p>
+            <closer>
+               <dateline>Given under my hand at my Quarters before Hereford <date>1 Auguſt 1645.</date>
+               </dateline>
+               <signed>LEVEN.</signed>
+            </closer>
+            <postscript>
+               <pb facs="tcp:158670:6"/>
+               <!-- PDF PAGE 60 -->
+               <p>THeſe are to will and require, and ſtrictly to command all Officers and Souldiers in this Army, not to preſume to intermeddle with the Goods of the Inhabitants and Country peo<g ref="char:EOLhyphen"/>ple, upon whatſoever pretence; nor offer the leaſt violence or wrong to any of them, in their Perſons, Families, and Eſtates: Certifying all thoſe that ſhall preſume to take any of their Horſes, Oxen, Cotls, Kyne, Sheepe, Cowes, Cattle, Houſholdſtuffe, or any thing els belong<g ref="char:EOLhyphen"/>ing to them, they are to ſuffer the puniſhment of death without Pardon, being inexcuſable, if they ſhall commit any ſuch offence after the publiſhing of theſe Orders: Whereof we require them to take notice, as they deſire to avoid the puniſhment aforeſaid, &amp;c.</p>
+               <closer>
+                  <dateline>Given at my Quarters before <hi>Hereford.</hi>
+                  </dateline>
+                  <signed>LEVEN.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
